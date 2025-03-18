@@ -1,4 +1,4 @@
-# supply-chai# Supply Chain Transparency
+# Supply Chain Transparency
 
 ## Project Title
 Supply Chain Transparency - Develop a smart contract for tracking products along the supply chain.
@@ -21,5 +21,3 @@ To build a decentralized, secure, and tamper-proof supply chain tracking system 
 - Automated transaction recording through smart contracts
 - Transparent product history and ownership verification
 - Event-driven notifications for real-time updates
-
-n-transparency-
